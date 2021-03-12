@@ -1,0 +1,46 @@
+h1{
+   font-size: 40px; 
+   color: red;
+}
+h2{
+    font-size: 20px;
+    color: #a52a2a;
+}
+i{
+    font-style: italic;
+}
+b{
+    font-weight: bold;
+}
+header{
+    margin-top: 25px;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+p{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    text-align: justify;
+    width: 95%;
+}
+ol{
+    text-align: center;
+    margin-left: 25px;
+}
+hr{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px; 
+}
+#split-content {
+display: table;
+width: 100%;
+}
+div{
+    float: left;
+    height: 50%;
+    width: 50%;  
+}
